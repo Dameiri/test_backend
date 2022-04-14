@@ -1,0 +1,8 @@
+﻿id;name;is_compat_interior_wall;mesh_width;mesh_height;mass_surf;mass_comb;trame;roll_pallet;color_names
+variant_1;R 118 A101 C+;FALSE;9;10;0.145;7.6;T2 Ra1 M4 E3;30;white, green, purple
+variant_2;R 131 A101 C+;FALSE;3.5;3.8;0.16;8.17;T3 Ra1 M2 E2;33;yellow, orange, red
+variant_3;R 131 A102 C+;FALSE;3.5;3.8;0.16;8.17;T3 Ra2 M2 E3;33;darkgrey
+variant_4;R 178 A102 C+;FALSE;7.4;7.9;0.225;;T3 Ra2 M2 E3;20;azul
+variant_5;-;TRUE;3.6;3.8;0.16;6.41;T3 Ra1 M2 E2;-1;grey
+variant_6;-;TRUE;6.2;6;0.165;6.31;T3 Ra1 M3 E2;;cyan
+variant_1;R 118 A101 C+;FALSE;9;10;0.145;7.6;T2 Ra1 M4 E3;30;white, green, purple
